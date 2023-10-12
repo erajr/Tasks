@@ -1,18 +1,17 @@
-## Getting Started
+## Details
+**Name:** Eraj Rizvi
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Matriculation Number:** 
 
-## Folder Structure
+**Project Description:** Created class Participant with attributes asked in question. 
+Created array of Participants in main class, asked user to select an input whether to find participants from:
 
-The workspace contains two folders by default, where:
+(a) Type of sports
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+(b) Number of national awards
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+(c) Number of international awards
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Upon selecting option, program will return the output
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Development Environment**: Visual Studio Code
