@@ -1,18 +1,13 @@
-## Getting Started
+## Details
+**Name:** Eraj Rizvi
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Matriculation Number:** 
 
-## Folder Structure
+**Project Description:** Created class Car with attributes asked in question. 
+Created array of Car in main class, asked user to select an input for:
 
-The workspace contains two folders by default, where:
+1. Brand of car --- will print list of cars of given brand and save to file
+2. Model of car & input years --- will print list of cars of given model that have been in use for more than input years and save to file
+3. Year of manufacture and input price --- will print list of cars manufactured in that year with price more than given input price and save to file.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Development Environment**: Visual Studio Code
