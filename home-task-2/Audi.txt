@@ -1,0 +1,2 @@
+Car [id=9, make=Audi, model=R8, yearOfManufacture=2012, color=Grey, price=250000, registrationNumber=AA-8301]
+Car [id=10, make=Audi, model=A8, yearOfManufacture=2022, color=Black, price=200000, registrationNumber=BB-1209]
