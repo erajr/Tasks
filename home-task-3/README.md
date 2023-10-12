@@ -1,18 +1,17 @@
-## Getting Started
+## Details
+**Name:** Eraj Rizvi
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Matriculation Number:** 
 
-## Folder Structure
+**Project Description:** Created Following hierarchy:
 
-The workspace contains two folders by default, where:
+Class Engine (superclass) --- Class CombustionEngine, Class ElectricEngine, Class HybridEngine (subclasses)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Class Manufacture with attribute name
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Abstract class Vehicle with attributes Manufacture and Engine, along with abstract method *ShowCharacteristics()*
+Subclasses ICEV, BEV and HybridV of Superclass Vehicle implementing the abstract method *ShowCharacteristics()*
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Created array of Vehicles[] and used their *ShowCharacteristics()* method to print output.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Development Environment**: Visual Studio Code
