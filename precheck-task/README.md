@@ -1,7 +1,7 @@
 ## Details
 **Name:** Eraj Rizvi
 
-**Matriculation Number:** 
+**Matriculation Number:** 7219193
 
 **Project Description:** Created class Participant with attributes asked in question. 
 Created array of Participants in main class, asked user to select an input whether to find participants from:
