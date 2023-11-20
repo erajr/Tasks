@@ -25,7 +25,7 @@ Created a project to create a multi user access to the charging station with the
 2. Create metadata for your project - Maria Saleem
    <br/>
 3. managing the log files:
-     <br/> 
+    <br/> 
    a. create - Maria Saleem
      <br/> 
    b. move - Maria Saleem
@@ -36,7 +36,7 @@ Created a project to create a multi user access to the charging station with the
   <br/> 
    Log files are divided into classes – functionality of the system, functionality of a charging station, functionality of the energy management system.
    <br/> 
-4. Use byte and character streams for simulation of the data exchange in the system - Yu Tian
+5. Use byte and character streams for simulation of the data exchange in the system - Yu Tian
 
 ***Please note that the tasks performed by each team member have been mentioned by their names after each functionality.***
 
