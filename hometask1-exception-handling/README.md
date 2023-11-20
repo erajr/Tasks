@@ -1,13 +1,20 @@
 **Home Task 1 - Exception Handling**
 
 **Team Members:**
-  1. **Name: Eraj Rizvi**, 
+  1. **Name: Eraj Rizvi**
+     <br/> 
      Matriculation Number: **7219193**
-  3. **Name: Maria Saleem**, 
+     <br/> 
+  3. **Name: Maria Saleem**
+     <br/>
      Matriculation Number: **7219529**
-  5. **Name: Yu Tian**, 
+     <br/> 
+  5. **Name: Yu Tian**
+     <br/>
      Matriculation Number: **7219180**
-  7. **Name: Aysha Fazal**, 
+     <br/> 
+  7. **Name: Aysha Fazal**
+      <br/> 
      Matriculation Number: **7216546**
      
 **Project Description:** 
