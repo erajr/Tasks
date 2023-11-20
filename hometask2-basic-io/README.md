@@ -29,11 +29,11 @@ Created a project to create a multi user access to the charging station with the
    a. create - Maria Saleem
      <br/> 
    b. move - Maria Saleem
-    <br/> 
+     <br/> 
    c. delete - Aysha Fazal
-    <br/> 
+     <br/> 
    d. archive - Aysha Fazal
-    <br/> 
+     <br/> 
    Log files are divided into classes – functionality of the system, functionality of a charging station, functionality of the energy management system.
    <br/> 
 5. Use byte and character streams for simulation of the data exchange in the system - Yu Tian
