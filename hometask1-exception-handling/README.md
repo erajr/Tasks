@@ -29,6 +29,6 @@ c. Resource Management - Yu Tian
 <br/> 
 d. Chaining Exceptions - Eraj Rizvi
 
-**Please note that the tasks performed by each team member have been mentioned by their names after each functionality.**
+***Please note that the tasks performed by each team member have been mentioned by their names after each functionality.***
 
 Development Environment: Eclipse IDE
