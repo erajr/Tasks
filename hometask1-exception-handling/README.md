@@ -15,8 +15,11 @@
 A Project has been created to explain the following concept of exception handling.
 
 a. Handling Multiple Exceptions - Maria Saleem
+
 b. Re-throwing Exceptions - Aysha Fazal
+
 c. Resource Management - Yu Tian
+
 d. Chaining Exceptions - Eraj Rizvi
 
 Development Environment: Eclipse IDE
