@@ -1,7 +1,6 @@
 **Home Task 2 - Basic I/O**
 
-**Team Members:**
-  1. **Eraj Rizvi**
+ **Eraj Rizvi**
      <br/> 
      Matriculation Number: **7219193**
      <br/> 
